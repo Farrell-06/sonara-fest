@@ -1,0 +1,12 @@
+﻿# Local environment configs
+.env
+config/config.local.php
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
